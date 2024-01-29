@@ -100,4 +100,6 @@ xkb_symbols "editing" {
     key <DOWN> {	[  Down, Page_Down		]	};
     key <RGHT> {	[  Right, End		        ]	};
 
+    // added by Ineptitech
+    key <LWIN> { 	[XF86Search] };
 };
